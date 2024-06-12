@@ -11,4 +11,5 @@ CatBoost
 TensorFlow
 Keras
 Pytorch
+dill
 -e .
